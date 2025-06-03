@@ -4,7 +4,7 @@
 I'm a full-stack developer who loves building web apps, automating workflows, and working with clean, scalable code. Whether it's writing efficient backend APIs, optimizing frontend performance, or exploring cloud tools, I enjoy crafting things that make users' lives easier.
 
 - 🔭 Build event platforms @Craftech360 (IPL 2024, Comic Con)
-- 🛠️ I work with React, Node.js, Laravel, AWS, and a bit of .NET
+- 🛠️ I work with React, Node.js, AWS, and a bit of .NET
 - 🧠 Always learning something new — currently diving deeper into DevOps
 - ⚙️ I make tools, APIs, and clean UI
 - 🧩 I enjoy side-projects and contributing to open source
