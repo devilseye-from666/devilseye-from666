@@ -45,7 +45,7 @@ Built backend for a school site with .NET and MySQL. [View Site](http://hpsguwah
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dhritiman-nath)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dhritiman-nath-224898341/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/devilseye-from666)
 [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:dhritimannarh1008@gmail.com)
 
