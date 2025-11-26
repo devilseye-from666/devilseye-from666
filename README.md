@@ -85,17 +85,19 @@ Built backend for a school site using **.NET** and **MySQL**.
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilseye-from666&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </p>
 
-<details> 
-  <summary><h2>#DevCard</h2></summary>
-<a href="https://app.daily.dev/dhritiman666"><img src="https://api.daily.dev/devcards/v2/GfWA9IEJzLdEDn7e6DVKk.png?type=wide&r=der" width="652" alt="DHRITIMAN NATH's Dev Card"/></a>
-</details>
+## 💳 DevCard
+<div align="center">
+  <img src="https://api.daily.dev/devcards/v2/GfWA9IEJzLdEDn7e6DVKk.png?type=wide&r=der" width="652" alt="Dev Card"/>
+</div>
 
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
+## 🏷️ Holopin Badges
+<div align="center">
+  
+[![Holopin](https://holopin.me/devilseyefrom666)](https://holopin.io/@devilseyefrom666)
 
-  [![An image of @devilseyefrom666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devilseyefrom666)](https://holopin.io/@devilseyefrom666)
+</div>
 
-</details>
+---
 
 <div align="center">
   
