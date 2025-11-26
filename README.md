@@ -71,7 +71,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=devilseye-from666&show_icons=true&theme=tokyonight" height="170"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilseye-from666&theme=tokyonight" height="170" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilseye-from666&layout=compact&theme=tokyonight" height="170"/>
@@ -80,6 +80,9 @@
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true" height="170"/>
+    </td>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilseye-from666&theme=tokyonight" height="170" />
     </td>
   </tr>
 </table>
