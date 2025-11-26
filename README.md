@@ -75,8 +75,28 @@ Built backend for a school site using **.NET** and **MySQL**.
 </div>
 
 ### 🔝 Top Contributed Repo
-![Contributed Repo](https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  ![Contributed Repo]()
+  <img src="https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Dhritiman's GitHub stats" />
+  </div>
 ---
+
+<h2 align='center'><i>Activity Graph 📈</i></h2>
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilseye-from666&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</p>
+
+<details> 
+  <summary><h2>#DevCard</h2></summary>
+<a href="https://app.daily.dev/devilseye-from666"><img src="https://api.daily.dev/devcards/v2/8SFFOBS0IrPj5Sakhugq5.png?type=default&r=m84" width="356" alt="devilseye-from666's Dev Card"/></a>
+</details>
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  [![An image of @devilseye-from666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devilseye-from666)](https://holopin.io/@devilseye-from666)
+
+</details>
 
 <div align="center">
   
