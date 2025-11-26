@@ -68,16 +68,16 @@ Built backend for a school site using **.NET** and **MySQL**.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=devilseye-from666&show_icons=true&theme=tokyonight" alt="Dhritiman's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilseye-from666&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=devilseye-from666&show_icons=true&theme=tokyonight" height="170"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilseye-from666&layout=compact&theme=tokyonight" height="170"/>
+<br/><br/>
+<img src="https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilseye-from666&theme=dracula&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Dhritiman's GitHub stats" />
-  </div>
 ---
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
