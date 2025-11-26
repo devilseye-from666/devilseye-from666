@@ -1,9 +1,8 @@
 <!-- Header & GIF -->
 <div align="center">
-  
+
   # Hey, I'm Dhritiman 👋  
   <i>Full-stack dev who loves building clean, scalable, and useful web apps.</i>
-
 </div>
 
 <img align="right" alt="Coding Illustration" width="400" style="margin-left: 20px; margin-bottom: 30px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
