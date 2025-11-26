@@ -73,8 +73,7 @@ Built backend for a school site using **.NET** and **MySQL**.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilseye-from666&layout=compact&theme=tokyonight" height="170"/>
 <br/><br/>
 <img src="https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200"/>
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilseye-from666&theme=dracula&area=true&hide_border=true" width="100%"/>
+
 
 </div>
 
@@ -84,6 +83,8 @@ Built backend for a school site using **.NET** and **MySQL**.
 <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilseye-from666&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </p>
+
+---
 
 ## 💳 DevCard
 <div align="center">
