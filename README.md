@@ -75,7 +75,7 @@ Built backend for a school site using **.NET** and **MySQL**.
 </div>
 
 ### 🔝 Top Contributed Repo
-![Contributed Repo](https://github-contributor-stats.vercel.app/api?username=BandhiyaHardik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Contributed Repo](https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
 <div align="center">
