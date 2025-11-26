@@ -88,7 +88,7 @@ Built backend for a school site using **.NET** and **MySQL**.
 
 <details> 
   <summary><h2>#DevCard</h2></summary>
-<a href="https://app.daily.dev/dhritiman666"><img src="https://api.daily.dev/devcards/v2/GfWA9IEJzLdEDn7e6DVKk.png?r=j65" width="356" alt="DHRITIMAN NATH's Dev Card"/></a>
+<a href="https://app.daily.dev/dhritiman666"><img src="https://api.daily.dev/devcards/v2/GfWA9IEJzLdEDn7e6DVKk.png?type=wide&r=der" width="652" alt="DHRITIMAN NATH's Dev Card"/></a>
 </details>
 
 <details> 
