@@ -1,45 +1,58 @@
+<!-- Header & GIF -->
+<div align="center">
+  
+  # Hey, I'm Dhritiman 👋  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding gif" />
+  
+  <br/><br/>
+  
+  <i>Full-stack dev who loves building clean, scalable, and useful web apps.</i>
 
-# Hey there, I'm Dhritiman 👋
+</div>
 
-I'm a full-stack developer who loves building web apps, automating workflows, and working with clean, scalable code. Whether it's writing efficient backend APIs, optimizing frontend performance, or exploring cloud tools, I enjoy crafting things that make users' lives easier.
+---
 
-- 🔭 Build event platforms @Craftech360 (IPL 2024, Comic Con)
-- 🛠️ I work with React, Node.js, AWS, and a bit of .NET
-- 🧠 Always learning something new — currently diving deeper into DevOps
-- ⚙️ I make tools, APIs, and clean UI
-- 🧩 I enjoy side-projects and contributing to open source
+## 🧑‍💻 About Me
+
+- 🔭 Building event platforms at **Craftech360** (IPL 2024, Comic Con)
+- ⚙️ I craft **tools, APIs, and clean UIs** that actually make users’ lives easier  
+- 🛠️ I work mostly with **React**, **Node.js**, **AWS**, and a bit of **.NET**
+- 🧠 Always learning — currently going deeper into **DevOps** & cloud tooling
+- 🧩 I enjoy side projects, automation, and contributing to **open source**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-JavaScript, TypeScript, Python, C#, PHP
+### 🗣️ Languages  
+`JavaScript` · `TypeScript` · `Python` · `C#` · `PHP`
 
-**Frontend:**  
-React, Next.js, HTML, CSS, jQuery
+### 🎨 Frontend  
+`React` · `Next.js` · `HTML` · `CSS` · `jQuery`
 
-**Backend:**  
-Node.js, Express, Laravel, ASP.NET
+### 🔙 Backend  
+`Node.js` · `Express` · `Laravel` · `ASP.NET`
 
-**Databases:**  
-MongoDB, MySQL, PostgreSQL
+### 🗄️ Databases  
+`MongoDB` · `MySQL` · `PostgreSQL`
 
-**Cloud & Tools:**  
-AWS (S3, Lambda, Rekognition), Firebase, Git, REST APIs
+### ☁️ Cloud & Tools  
+`AWS (S3, Lambda, Rekognition)` · `Firebase` · `Git` · `REST APIs`
 
 ---
 
-## 🛠️ Projects I’ve Built
+## 🚀 Featured Projects
 
 📸 **Smart Photo Delivery System**  
-Automated attendee photo delivery using Node.js + AWS Rekognition for events like IPL 2024.
+Automated attendee photo delivery for large events (like **IPL 2024**) using **Node.js** + **AWS Rekognition**.
 
 📦 **Email Automation NPM Package**  
-Reusable Node.js package for sending templated emails using SMTP. [View on NPM](https://npmjs.com/package/email-package-with-nodemailer)
+Reusable Node.js package for sending templated emails with SMTP.  
+👉 [View on NPM](https://npmjs.com/package/email-package-with-nodemailer)
 
 🏫 **School Management Platform**  
-Built backend for a school site with .NET and MySQL. [View Site](http://hpsguwahati.com)
+Built backend for a school site using **.NET** and **MySQL**.  
+👉 [View Site](http://hpsguwahati.com)
 
 ---
 
@@ -53,9 +66,20 @@ Built backend for a school site with .NET and MySQL. [View Site](http://hpsguwah
 
 ## 📈 GitHub Activity
 
-![Dhritiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=devilseye-from666&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilseye-from666&layout=compact&theme=tokyonight)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devilseye-from666&show_icons=true&theme=tokyonight" alt="Dhritiman's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilseye-from666&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+</div>
 
 ---
 
-Thanks for stopping by! 🚀
+<div align="center">
+  
+  Thanks for stopping by! 🚀  
+  <br/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Thank you gif" />
+
+</div>
