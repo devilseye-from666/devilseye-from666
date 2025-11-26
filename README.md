@@ -94,7 +94,7 @@ Built backend for a school site using **.NET** and **MySQL**.
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
-  [![An image of @devilseye-from666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devilseye-from666)](https://holopin.io/@devilseye-from666)
+  [![An image of @devilseyefrom666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devilseyefrom666)](https://holopin.io/@devilseyefrom666)
 
 </details>
 
