@@ -2,26 +2,28 @@
 <div align="center">
   
   # Hey, I'm Dhritiman 👋  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding gif" />
-  
-  <br/><br/>
-  
   <i>Full-stack dev who loves building clean, scalable, and useful web apps.</i>
 
 </div>
 
+<img align="right" alt="Coding Illustration" width="400" style="margin-left: 20px; margin-bottom: 30px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=devilseye-from666&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 Building event platforms at **Craftech360** (IPL 2024, Comic Con)
-- ⚙️ I craft **tools, APIs, and clean UIs** that actually make users' lives easier  
-- 🛠️ I work mostly with **React**, **Node.js**, **AWS**, and a bit of **.NET**
-- 🧠 Always learning — currently going deeper into **DevOps** & cloud tooling
+### 🧑‍💻 About Me
+- 🔭 Currently building event platforms at **Craftech360** (IPL 2024, Comic Con)
+- ⚙️ I craft **tools, APIs, and polished UIs** that make users' lives easier
+- 🛠️ I mostly work with **React**, **Node.js**, **AWS**, and a bit of **.NET**
+- 🧠 Always learning — diving deeper into **DevOps** & cloud tooling
 - 🧩 I enjoy side projects, automation, and contributing to **open source**
 
 ---
 
+<br></br>
 ## 🧰 Tech Stack
 
 <div align="center">
