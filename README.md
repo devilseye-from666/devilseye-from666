@@ -76,8 +76,7 @@ Built backend for a school site using **.NET** and **MySQL**.
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  ![Contributed Repo]()
-  <img src="https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Dhritiman's GitHub stats" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Dhritiman's GitHub stats" />
   </div>
 ---
 
