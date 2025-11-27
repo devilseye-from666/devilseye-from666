@@ -58,7 +58,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dhritiman-nath-224898341/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/devilseye-from666)
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge)](mailto:dhritimannarh1008@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=dhritimannarh1008@gmail.com)
+
 
 </div>
 
