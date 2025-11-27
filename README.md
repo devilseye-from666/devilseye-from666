@@ -54,14 +54,54 @@
 
 ## 🌍 Connect With Me
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dhritiman-nath-224898341/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/devilseye-from666)
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=dhritimannarh1008@gmail.com)
+  <a href="https://www.linkedin.com/in/dhritiman-nath-224898341/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
 
+  <a href="https://github.com/devilseye-from666" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" />
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhritimannarh1008@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+
+  <a href="https://www.instagram.com/psychosocial__666" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=for-the-badge" />
+  </a>
+
+  <a href="https://x.com/Dhritiman666" target="_blank">
+    <img src="https://img.shields.io/badge/-X-black?logo=x&style=for-the-badge" />
+  </a>
+
+  <a href="https://app.daily.dev/dhritiman666" target="_blank">
+    <img src="https://img.shields.io/badge/-daily.dev-orange?logo=daily.dev&style=for-the-badge" />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1st_mY-HHgK9YdK_so35OYIR6sC3HlxUB/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/dhritimannarh1008/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&style=for-the-badge" />
+  </a>
+
+  <a href="https://www.hackerrank.com/dhritimannarh101" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&style=for-the-badge" />
+  </a>
+
+  <a href="https://dev.to/devilseyefrom666" target="_blank">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&style=for-the-badge" />
+  </a>
+
+  <a href="https://wakatime.com/@dhritiman666" target="_blank">
+    <img src="https://img.shields.io/badge/-Wakatime-000000?logo=wakatime&style=for-the-badge" />
+  </a>
 
 </div>
+
 
 ---
 
