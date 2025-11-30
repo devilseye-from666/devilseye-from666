@@ -73,11 +73,11 @@
     <img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=for-the-badge" />
   </a>
 
-  <a href="https://x.com/Dhritiman666" target="_blank">
+  <a href="https://x.com/Dhritiman666" >
     <img src="https://img.shields.io/badge/-X-black?logo=x&style=for-the-badge" />
   </a>
 
-  <a href="https://app.daily.dev/dhritiman666" target="_blank">
+  <a href="https://app.daily.dev/dhritiman666">
     <img src="https://img.shields.io/badge/-daily.dev-orange?logo=daily.dev&style=for-the-badge" />
   </a>
 
