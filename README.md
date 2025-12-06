@@ -37,6 +37,14 @@
 
 </div>
 
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,nextjs,html,css,jquery&perline=10" />
+	<br/>
+	<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,mysql,postgres,mongodb,firebase,aws,git,postman&perline=10" />
+</div>
+
+---
+
 ---
 
 ## 🚀 Featured Projects
