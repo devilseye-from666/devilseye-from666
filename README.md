@@ -173,7 +173,8 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devilseye-from666&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devilseye-from666&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=devilseye-from666&theme=dark" />
 </p>
 
 ---
