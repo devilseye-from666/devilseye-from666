@@ -173,11 +173,11 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/star.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/commit.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/repo.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/follower.svg" width="80"/>
+  <img src="https://img.shields.io/badge/Trophy-🔥%20Top%20Committer-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-⭐%20Star%20Collector-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-🚀%20Open%20Source-brightgreen?style=for-the-badge" />
 </p>
+
 
 
 ---
