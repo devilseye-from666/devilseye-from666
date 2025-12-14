@@ -173,7 +173,10 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=devilseye-from666&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/star.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/commit.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/repo.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/follower.svg" width="80"/>
 </p>
 
 
