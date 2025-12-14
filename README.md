@@ -173,7 +173,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilseye-from666&theme=github-dark" />
+  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=devilseye-from666&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 
