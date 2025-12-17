@@ -14,11 +14,11 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently building event platforms at **Craftech360** (IPL 2024, Comic Con)
-- ⚙️ I craft **tools, APIs, and polished UIs** that make users' lives easier
-- 🛠️ I mostly work with **React**, **Node.js**, **AWS**, and a bit of **.NET**
-- 🧠 Always learning — diving deeper into **DevOps** & cloud tooling
-- 🧩 I enjoy side projects, automation, and contributing to **open source**
+I build scalable systems, sharp APIs, and polished user interfaces that solve real problems.
+
+My core stack is React, Node.js, and AWS, with experience across cloud infrastructure and backend architecture. I’m constantly pushing deeper into DevOps, automation, and performance optimization.
+
+I love shipping side projects, breaking things, fixing them, and contributing to open source.
 
 ---
 
