@@ -14,11 +14,16 @@
 ---
 
 ### 🧑‍💻 About Me
-I build scalable systems, sharp APIs, and polished user interfaces that solve real problems.
 
-My core stack is React, Node.js, and AWS, with experience across cloud infrastructure and backend architecture. I’m constantly pushing deeper into DevOps, automation, and performance optimization.
+I engineer **production-grade systems**—from fast, intuitive frontends to battle-tested backends and cloud infrastructure that actually scales.
 
-I love shipping side projects, breaking things, fixing them, and contributing to open source.
+My weapon of choice is **React, Node.js, and AWS**, and I live where **clean architecture, performance, and reliability** intersect. I don’t just write code—I design systems, automate workflows, and optimize until bottlenecks disappear.
+
+I’m deep into **DevOps, CI/CD, and infrastructure automation**, constantly breaking things on purpose so they never break in production.
+
+I ship relentlessly, build in public, contribute to open source, and turn ideas into real, running software.
+
+**If it doesn’t scale, I’m not done.**
 
 ---
 
