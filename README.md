@@ -180,8 +180,6 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
   <img src="https://img.shields.io/badge/Trophy-🚀%20Open%20Source-brightgreen?style=for-the-badge" />
 </p>
 
-
-
 ---
 
 <div align="center">
