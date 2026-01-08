@@ -50,8 +50,6 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
 
 ---
 
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
