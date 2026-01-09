@@ -1,8 +1,10 @@
 <!-- Header & GIF -->
 <div align="center">
 
-  # Hey, I'm Dhritiman 👋  
-  <i>Full-stack dev who loves building clean, scalable, and useful web apps. Passionate in 3D</i>
+# Hey, I'm Dhritiman 👋
+
+<i>Full-stack dev who loves building clean, scalable, and useful web apps. Passionate in 3D</i>
+
 </div>
 
 <img align="right" alt="Coding Illustration" width="400" style="margin-left: 20px; margin-bottom: 30px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -27,17 +29,16 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
 
 ---
 
-
 ## 🧰 Tech Stack
 
 <div align="center">
 
-| Category | Technologies |
-|----------|--------------|
-| **🗣️ Languages** | `JavaScript` · `TypeScript` · `Python` · `C#` · `PHP` |
-| **🎨 Frontend** | `React` · `Next.js` · `HTML` · `CSS` · `jQuery` |
-| **🔙 Backend** | `Node.js` · `Express` · `Laravel` · `ASP.NET` |
-| **🗄️ Databases** | `MongoDB` · `MySQL` · `PostgreSQL` |
+|       Category       |                            Technologies                            |
+| :------------------: | :----------------------------------------------------------------: |
+|   **🗣️ Languages**   |       `JavaScript` · `TypeScript` · `Python` · `C#` · `PHP`        |
+|   **🎨 Frontend**    |          `React` · `Next.js` · `HTML` · `CSS` · `jQuery`           |
+|    **🔙 Backend**    |           `Node.js` · `Express` · `Laravel` · `ASP.NET`            |
+|   **🗄️ Databases**   |                 `MongoDB` · `MySQL` · `PostgreSQL`                 |
 | **☁️ Cloud & Tools** | `AWS (S3, Lambda, Rekognition)` · `Firebase` · `Git` · `REST APIs` |
 
 </div>
@@ -54,11 +55,11 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
 
 <div align="center">
 
-| Project | Description | Links |
-|---------|-------------|--------|
-| **📸 Smart Photo Delivery System** | Automated attendee photo delivery for large events (like **IPL 2024**) using **Node.js** + **AWS Rekognition** | - |
-| **📦 Email Automation NPM Package** | Reusable Node.js package for sending templated emails with SMTP | [![NPM](https://img.shields.io/badge/View_on_NPM-red?style=flat-square&logo=npm)](https://npmjs.com/package/email-package-with-nodemailer) |
-| **🏫 School Management Platform** | Built backend for a school site using **.NET** and **MySQL** | [![Website](https://img.shields.io/badge/View_Site-blue?style=flat-square)](http://hpsguwahati.com) |
+|               Project               |                                                  Description                                                   |                                                                   Links                                                                    |
+| :---------------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| **📸 Smart Photo Delivery System**  | Automated attendee photo delivery for large events (like **IPL 2024**) using **Node.js** + **AWS Rekognition** |                                                                     -                                                                      |
+| **📦 Email Automation NPM Package** |                        Reusable Node.js package for sending templated emails with SMTP                         | [![NPM](https://img.shields.io/badge/View_on_NPM-red?style=flat-square&logo=npm)](https://npmjs.com/package/email-package-with-nodemailer) |
+|  **🏫 School Management Platform**  |                          Built backend for a school site using **.NET** and **MySQL**                          |                    [![Website](https://img.shields.io/badge/View_Site-blue?style=flat-square)](http://hpsguwahati.com)                     |
 
 </div>
 
@@ -174,6 +175,7 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://img.shields.io/badge/Trophy-🔥%20Top%20Committer-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trophy-⭐%20Star%20Collector-yellow?style=for-the-badge" />
