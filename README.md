@@ -184,10 +184,3 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
 
 ---
 
-<div align="center">
-  
-  **Thanks for stopping by! 🚀**  
-  <br/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Thank you gif" />
-
-</div>
