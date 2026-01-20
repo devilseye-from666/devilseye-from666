@@ -176,7 +176,11 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
 
 ### 🏆 GitHub Trophies
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Trophy-🔥%20Top%20Committer-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-⭐%20Star%20Collector-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-🚀%20Open%20Source-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
