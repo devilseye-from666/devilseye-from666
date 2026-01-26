@@ -130,7 +130,7 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devilseye-from666&layout=compact&theme=tokyonight" height="170"/>
 </td>
     <td  align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=devilseye-from666&limit=5&theme=dark&combine_all_yearly_contributions=true" height="170"/>
+      <img src="https://github-readme-streak-stats.demolab.com/?user=devilseye-from666&theme=tokyonight" height="170"/>
     </td>
   </tr>
   <tr>
