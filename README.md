@@ -10,7 +10,7 @@
 <img align="right" alt="Coding Illustration" width="400" style="margin-left: 20px; margin-bottom: 30px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=devilseye-from666&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=dhritiman666&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 
-  <a href="https://github.com/devilseye-from666" target="_blank">
+  <a href="https://github.com/dhritiman666" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" />
   </a>
 
@@ -105,7 +105,7 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&style=for-the-badge" />
   </a>
 
-  <a href="https://dev.to/devilseyefrom666" target="_blank">
+  <a href="https://dev.to/dhritiman666" target="_blank">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&style=for-the-badge" />
   </a>
 
@@ -124,18 +124,18 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilseye-from666&theme=tokyonight" height="170" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhritiman666&theme=tokyonight" height="170" />
     </td>
     <td align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devilseye-from666&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhritiman666&layout=compact&theme=tokyonight" height="170"/>
 </td>
     <td  align="center">
-      <img src="https://github-readme-streak-stats.demolab.com/?user=devilseye-from666&theme=tokyonight" height="170"/>
+      <img src="https://github-readme-streak-stats.demolab.com/?user=dhritiman666&theme=tokyonight" height="170"/>
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilseye-from666&theme=tokyonight" height="170" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhritiman666&theme=tokyonight" height="170" />
     </td>
   </tr>
 </table>
@@ -146,7 +146,7 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilseye-from666&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhritiman666&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </div>
 
 ---
@@ -163,8 +163,8 @@ I ship relentlessly, build in public, contribute to open source, and turn ideas 
     </td>
     <td align="center" width="50%">
       <h3>Holopin Badges</h3>
-      <a href="https://holopin.io/@devilseyefrom666">
-        <img src="https://holopin.me/devilseyefrom666" alt="Holopin badges" width="100%"/>
+      <a href="https://holopin.io/@dhritiman666">
+        <img src="https://holopin.me/dhritiman666" alt="Holopin badges" width="100%"/>
       </a>
     </td>
   </tr>
